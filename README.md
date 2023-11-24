@@ -3,9 +3,13 @@
 TaskMate is an innovative app for startups that gives users the power to organize their lives and scale their productivity. 
 
 By providing an easy-to-use platform, users can rely on TaskMate to find the perfect phone for their flexibility and personal lives.
+
   Needs:
+  
 •	The Android version of the application provides access privileges to the largest possible number of users.
+
 •	The application development is based on Android Studio editor and Java programming language, ensuring a smooth user experience for customers.
+
 •	Addition requires use of espresso-core and recyclerview desks to make the most of the functionality.
 
 Jobs:
