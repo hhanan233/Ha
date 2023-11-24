@@ -36,4 +36,36 @@ Providing a smooth interface and powerful features, users can rely on TaskMate f
 
 Shareholder name:
 
+
+•	Manar Mohammed
+
+•	Reem Ahmad 
+
+•	Hanan Ahmed 
+
+•	Raghad hamoud 
+
+•	Amjad Ahmad 
+
+•	Fatima Mohammed
+
 to contact us :
+
+Manar Mohammed /
+444816650@kku.edu.sa
+
+Reem Ahmad /
+444814175@kku.edu.sa
+
+Hanan Ahmed /
+444808722@kku.edu.sa
+
+Raghad hamoud /
+444816655@kku.edu.sa
+
+Amjad Ahmad /
+444816556@Kku.edu.sa
+
+Fatima Mohammed /
+444816662@kku.edu.sa
+
